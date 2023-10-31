@@ -1,6 +1,7 @@
 Запуск на Windows
 ```
 gradlew bootJar
+cd build\libs
 java -jar simbirgo-0.0.1.jar
 ```
 
